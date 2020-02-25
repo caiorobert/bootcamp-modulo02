@@ -2,7 +2,7 @@ import express from 'express';
 import routes from './routes';
 
 class App {
-  //constructor é um método chamado automaticamente
+  // constructor é um método chamado automaticamente
   constructor() {
     this.server = express();
 
